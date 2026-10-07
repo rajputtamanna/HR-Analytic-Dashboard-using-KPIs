@@ -20,14 +20,7 @@
 - Utilized Microsoft Power BI for data modeling and visualization.
 - Incorporated Microsoft Excel for data analysis.
 
-## Project Benefits:
-📌 Enhance transparency on gender diversity
 
-📌 Identify and address diversity gaps
-
-📌 Enables data-driven decision-making
-
-📌 Tracks key metrics over time
 
 ### This project uses data analytics to understand gender diversity and inclusion in the company. The Power BI dashboard and KPIs empower HR and management to track metrics, address issues, and make informed decisions to enhance workplace diversity. The ultimate goal is to create a fair and inclusive work environment for all employees.
 
